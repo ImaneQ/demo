@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../projects"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic",
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
